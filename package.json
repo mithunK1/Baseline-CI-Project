@@ -1,0 +1,11 @@
+{
+  "name": "hello-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint .",
+    "build": "echo Build successful"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  }
+}
