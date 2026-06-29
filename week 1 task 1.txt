@@ -1,0 +1,7 @@
+git checkout -b feature/DEV-W1-T1
+
+git add .
+
+git commit -m "docs: standardize repository structure and branching strategy"
+
+git push origin feature/DEV-W1-T1
